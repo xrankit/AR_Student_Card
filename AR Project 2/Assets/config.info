@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="5.0" toolVersion="2.8.0">
+        <ImageTarget name="Predictive_Insights" targetId="ae10ea24e43c4070822974845e593bc3" version="2.6" toolVersion="2.8.0">
+            <UnpaddedImage size="320 188" />
+        </ImageTarget>
+        <ImageTarget name="Second_AR" targetId="6ba8e97ec276436faeff13c816dd50f0" version="2.6" toolVersion="2.8.0">
+            <UnpaddedImage size="320 240" />
+        </ImageTarget>
+    </TargetSet>
+</QCARInfo>
